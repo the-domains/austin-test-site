@@ -1,0 +1,14 @@
+layout_spectrum: 0.6693873191252351
+typography_spectrum: 0.8221428184770048
+color:
+  brandStrength: 0.15733115538023412
+  lightness: 0.6718018688261509
+  saturation: 0.573947845492512
+  rhythmicContrast: 0.3967982812318951
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Austin Test Site
